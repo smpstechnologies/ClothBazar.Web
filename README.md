@@ -1,2 +1,2 @@
-# ClothBazar.Web
+# ClothBazar
 Online Marketing
